@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+I am currently working on a Masters in Data Analytics and work full time in IT as a reporting specialist.
+
+I love building pipelines and analyzing data sets.  I also enjoy working on other full stack projects and building apps in Power Apps and Sharepoint.
+
