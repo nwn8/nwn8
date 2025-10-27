@@ -45,6 +45,14 @@ Shiny dashboard using streaming data, refreshes every 10 seconds:
 
 [https://nwn8.github.io/cintel-o5-cintel/]
 
+Another Shiny dashboard:
+
+[https://nwn8.github.io/cintel-04-local/]
+
 Linear regression Machine Learning project:
 
 [https://github.com/nwn8/datafun-07-ml/blob/main/Nate_ml.ipynb]
+
+Most of my PowerBI dashboards are for work, this is one for a school assignment:
+
+[https://github.com/nwn8/smart-store-nate]
